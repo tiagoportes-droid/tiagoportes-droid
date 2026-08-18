@@ -1,45 +1,67 @@
-<img height="125" align='right' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitbook/gitbook-original.svg" />
+<img height="125" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitbook/gitbook-original.svg" />Olá, meu nome é Tiago! 👋
 
-### Olá, meu nome é Tiago!
+<img src="https://img.shields.io/static/v1?label=Overview&message=Tiago&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"><p>Sou estudante de <strong>Desenvolvimento de Sistemas</strong> e desenvolvedor em formação.</p><p>Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvimento de aplicações, APIs, bancos de dados e boas práticas de desenvolvimento de software.</p>🚀 Tecnologias
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Tiago&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+💻 Linguagens
 
-<p>Meu nome é Tiago e sou desenvolvedor de **Desenvolvimento de Sistemas**. </p>
-<p>Atualmente estou desenvolvendo meu conhecimento em programação, desenvolvimento de aplicações e boa praticas de desenvolvimento de software.</p>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#"/></code>
 
-## 🚀 Em Aprendizado
+🌐 Front-End
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/3eab5e2c7c7e7f7e7f7e7f7e7f7e7f7e7f7e7f7/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/2f1f9f2c6f2d8c7c6d5c4c3c2c1c0b9b8b7b6b5b4b3b2b1b0a9a8a7a6a5a4a3a2a1a0/topics/nodejs/nodejs.png" alt="Node.js"/></code>
 
-## Atualmente estudando
+⚙️ Back-End
 
-* Logica de Programação
-* Desenvolvimento Front-End
-* Desenvolvimento Back-End
-* APIS REST
-* Banco de Dados
-* Git e GitHub
+- Node.js
+- FastAPI
+- APIs REST
+- Python
+- C#
 
-## Projetos
+🗄️ Banco de Dados
 
-<p>Neste GitHub você encontrará projetos, exercicios e atividade desenvolvido durante meus estudos.</p>
-<p>Os projetos tem como objetivos colocar me partica os conceitos aprendidos em aula e em acompanhar minha evolução como desenvolvedor.</p>
+- MySQL
+- SQLite
 
+🛠️ Ferramentas
 
-## Objetivos
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub"/></code>
 
-<p>Meu objetivo é continuar aprimorando meus conhecimentos em tecnologia, desenvolver novos projetos e adquirir experiências na área de densenvolvimento de sofware.</p>
+- Git
+- GitHub
 
+📚 Atualmente estudando
 
-## Onde me encontrar
+- Lógica de Programação
+- Desenvolvimento Front-End
+- Desenvolvimento Back-End
+- APIs REST
+- Banco de Dados
+- Git e GitHub
+- Arquitetura de aplicações
+- Boas práticas de desenvolvimento
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-ferreira-da-luz-portes-62523a402?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Gmail Badge](https://img.shields.io/badge/-tiago.fportes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:tiago.fportes@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/tiagoportes-droid)
+🚀 Projetos em destaque
+
+🔎 OCR + RPA
+
+Sistema de automação para processamento de documentos utilizando OCR, Python, APIs, processamento de arquivos e banco de dados.
+
+🌐 Projetos Web
+
+Aplicações desenvolvidas para praticar desenvolvimento Front-End, Back-End, APIs REST e integração com bancos de dados.
+
+🎯 Objetivos
+
+<p>Meu objetivo é continuar aprimorando meus conhecimentos em tecnologia, desenvolver projetos cada vez mais completos e adquirir experiência na área de desenvolvimento de software.</p><p>Utilizo este GitHub para registrar minha evolução, compartilhar projetos e colocar em prática os conhecimentos adquiridos durante meus estudos.</p>📫 Onde me encontrar
+
+""LinkedIn" (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)" (https://www.linkedin.com/in/tiago-ferreira-da-luz-portes-62523a402/)
+
+""Gmail" (https://img.shields.io/badge/-tiago.fportes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)" (mailto:tiago.fportes@gmail.com)
+
+""GitHub" (https://img.shields.io/github/followers/tiagoportes-droid?label=Follow&style=social)" (https://github.com/tiagoportes-droid)
