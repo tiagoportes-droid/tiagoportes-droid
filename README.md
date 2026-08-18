@@ -41,4 +41,4 @@
 ## Onde me encontrar
 
 [![Gmail Badge](https://img.shields.io/badge/-tiago.fportes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:tiago.fportes@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([https://github.com/tiagoportes-droid)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/tiagoportes-droid)
