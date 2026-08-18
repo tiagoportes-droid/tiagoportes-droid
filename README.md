@@ -42,9 +42,6 @@
 
 - Git
 - GitHub
-- OpenCV
-- OCR
-- RPA
 
 ## 📚 Atualmente estudando
 
@@ -62,10 +59,6 @@
 ### 🔎 OCR + RPA
 
 Sistema de automação para processamento de documentos utilizando OCR, Python, APIs, processamento de arquivos e banco de dados.
-
-### 🚆 Monitoramento Ferroviário
-
-Projeto de monitoramento de rolamentos ferroviários utilizando sensores, processamento de dados e visualização de informações.
 
 ### 🌐 Projetos Web
 
