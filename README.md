@@ -1,8 +1,8 @@
-<img height="100" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" />
+<img height="90" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript Logo" />
 
 # Olá, meu nome é Tiago! 👋
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=false&vCenter=false&width=435&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o...;Estudante+de+Desenvolvimento+de+Sistemas;Entusiasta+de+Python+%2B+C%23" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=false&vCenter=false&width=550&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o...;Estudante+de+Desenvolvimento+de+Sistemas;Entusiasta+de+JavaScript+%2B+C%23" alt="Typing SVG" />
 </a>
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Tiago&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
