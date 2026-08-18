@@ -1,8 +1,9 @@
-<img height="90" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript Logo" />
+<img height="50" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript Logo" />
 
 # Olá, meu nome é Tiago! 👋
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=false&vCenter=false&width=550&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o...;Estudante+de+Desenvolvimento+de+Sistemas;Entusiasta+de+JavaScript+%2B+C%23" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=false&vCenter=false&width=550&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o...;Estudante+de+Desenvolvimento+de+Sistemas;Estudante+de+JavaScript+CSS" alt="Typing SVG" />
 </a>
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Tiago&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
@@ -16,50 +17,62 @@ Sou estudante de **Desenvolvimento de Sistemas** e desenvolvedor em formação.
 
 Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvimento de aplicações, APIs, bancos de dados e boas práticas de desenvolvimento de software.
 
-## 🚀 Tecnologias
+---
 
-### 💻 Linguagens
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#"/></code>
+<div align="center">
+  <h3>Tecnologias & Ferramentas</h3>
+</div>
 
-### 🌐 Front-End
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<br>
+<div align="center">
+  <kbd>
+    <kbd>Linguagens</kbd>
+    <br><br>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" />
+  </kbd>
+  <kbd>
+    <kbd>Front-end & Back-end</kbd>
+    <br><br>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" />
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" />
+  </kbd>
+  <kbd>
+    <kbd>Bancos de Dados</kbd>
+    <br><br>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" />
+  </kbd>
+  <kbd>
+    <kbd>Ferramentas</kbd>
+    <br><br>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
+  </kbd>
+</div>
 
-### ⚙️ Back-End
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#"/></code>
-
-- APIs REST
-
-### 🗄️ Banco de Dados
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
-
-### 🛠️ Ferramentas
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub"/></code>
-
-## 📚 Atualmente estudando
-
-* Lógica de Programação
-* Desenvolvimento Front-End / Back-End
-* APIs REST & Banco de Dados
-* Git e GitHub
-* Arquitetura de aplicações e Boas práticas
+---
 
 ## 🚀 Projetos em destaque
 
 ### 🌐 Projetos Web
 Aplicações desenvolvidas para praticar desenvolvimento Front-End, Back-End, APIs REST e integração com bancos de dados.
 
-## 🎯 Objetivos
+---
 
-Meu objetivo é continuar aprimorando meus conhecimentos em tecnologia, desenvolver projetos cada vez mais completos e adquirir experiência na área de desenvolvimento de software.
+## 📊 Estatísticas do GitHub
 
-Utilizo este GitHub para registrar minha evolução, compartilhar projetos e colocar em prática os conhecimentos adquiridos durante meus estudos.
+<div align="center">
+  <a href="https://github.com/tiagoportes-droid">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=tiagoportes-droid&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoportes-droid&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560" alt="Top Languages" />
+  </a>
+</div>
+
+---
 
 ## 📫 Onde me encontrar
 
