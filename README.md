@@ -10,7 +10,7 @@
 
 <div align="left">
   <h3>Profile Views</h3>
-  <img src="https://komarev.com/ghpvc/?username=tiagoportes-droid&label=Profile%20views&color=0e75b6&style=flat" alt="tiagoportes-droid" />
+  <img src="https://komarev.com/ghpvc/?username=tiagoportes-droid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 Sou estudante de **Desenvolvimento de Sistemas** e desenvolvedor em formação.
