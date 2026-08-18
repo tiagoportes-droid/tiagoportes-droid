@@ -40,5 +40,6 @@
 
 ## Onde me encontrar
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-ferreira-da-luz-portes-62523a402?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Gmail Badge](https://img.shields.io/badge/-tiago.fportes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:tiago.fportes@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/tiagoportes-droid)
