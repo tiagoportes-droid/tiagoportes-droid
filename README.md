@@ -62,17 +62,6 @@ Aplicações desenvolvidas para praticar desenvolvimento Front-End, Back-End, AP
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/tiagoportes-droid">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=tiagoportes-droid&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560" alt="GitHub Stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoportes-droid&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560" alt="Top Languages" />
-  </a>
-</div>
-
----
-
 ## 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-ferreira-da-luz-portes-62523a402/)
