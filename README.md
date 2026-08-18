@@ -8,10 +8,9 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Tiago&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<div align="left">
-  <h3>Profile Views</h3>
-  <img src="https://komarev.com/ghpvc/?username=tiagoportes-droid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+### Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=tiagoportes-droid&label=Profile%20views&color=0e75b6&style=flat)
 
 Sou estudante de **Desenvolvimento de Sistemas** e desenvolvedor em formação.
 
